@@ -1,4 +1,4 @@
-Analysis process of RNA-seq and acRIP-seq
+Analysis process of RNA-seq and acRIP-seq.
 The integrity of the sequencing data and quality control was performed with FastQC (version 2.11.5).
 Sequence trimming was performed with Trimmomatic (version 0.39).
 The remaining reads were aligned to the mouse genome Mus musculus GRCm38.95 by STAR (version 2.7.5c).
